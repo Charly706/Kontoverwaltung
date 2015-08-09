@@ -20,6 +20,7 @@ public class Konto {
 		return kontonummer;
 	}
 
+	//TODO:
 	public void einzahlen(double betrag) {
 	}
 
