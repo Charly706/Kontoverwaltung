@@ -13,6 +13,7 @@ public class Video extends Medium {
 		return this.regisseur;
 	}
 
+	// Property to return
 	public int getSpieldauer() {
 		return this.spieldauer;
 	}
